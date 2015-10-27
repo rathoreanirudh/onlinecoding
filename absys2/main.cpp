@@ -1,6 +1,4 @@
-#include<string>
-#include<iostream>
-#include<stdio.h>
+#include<bits/stdc++.h>
 
 using namespace std;
 int check(string str)
